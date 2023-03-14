@@ -4,6 +4,6 @@ I have three years of experience as a teacher. In addition, I have a degree in B
 
 **Currently, I'm looking for an opportunity to work as a junior or intern developer.** 💻
 
-Check my social networks: [LinkedIn](https://www.linkedin.com/company/phpnet) | [Twitter](https://twitter.com/official_php) | [Website](https://php.net/) | [Email](mailto:your@email.test)
+Check my contacts: [LinkedIn](https://www.linkedin.com/company/phpnet) | [Twitter](https://twitter.com/official_php) | [Website](https://php.net/) | [Email](mailto:your@email.test)
 
 Learning more about code and contributing to great solutions is something I enjoy and want to work with. 🤓 🐘
