@@ -1,4 +1,4 @@
-### Sample Name - PHP Developer Student 
+### Sample Name - Student PHP Developer 
 
 I have three years of experience as a teacher. In addition, I have a degree in Business Administration and two completed years of a Computer Science degree. I'm a student at Jagaad Academy and have been focusing on Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming. Check out some of my projects here on GitHub; they cover different topics I'm studying.  
 
